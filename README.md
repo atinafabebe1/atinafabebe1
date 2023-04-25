@@ -18,13 +18,3 @@ Here are some of the languages, frameworks, and libraries that I use as a MERN s
 - PostgreSQL
 - Git
 
-### Recent Projects
-
-Here are some of my recent projects that I'm proud of:
-
-#### Transport Management System
-
-### Get in touch
-
-If you want to collaborate, or just say hi, feel free to reach out to me at oliabebe82@gmail.com.
-
