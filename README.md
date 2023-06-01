@@ -20,12 +20,6 @@ Here are some of the languages, frameworks, and libraries that I use as a MERN s
 - PostgreSQL
 - Git
 
-## Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atinafabebe1&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Atnaf's GitHub Stats" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atinafabebe1&theme=radical&hide_border=true" alt="Atnaf's GitHub Streak" width="45%" />
-</p>
-
 ## Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atinafabebe1&layout=compact&theme=radical&hide_border=true" alt="Atnaf's Top Languages" width="45%" />
