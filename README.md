@@ -4,7 +4,7 @@
 ## About Me
 I'm a **MERN stack developer** who loves to build web applications. I'm passionate about writing clean, maintainable, and scalable code.
 
-- 🔭 I’m currently working on **Habesha-Mart** - Habesha Mart is a full-stack e-commerce website that aims to offer a unique shopping experience for customers looking for Ethiopian goods. Our website allows users to browse through a wide variety of Ethiopian products, add them to cart, and checkout securely using payment gateways.
+- 🔭 I’m currently working on **Habesha-Mart** - Habesha Mart is a full-stack e-commerce website that aims to offer a unique shopping experience for customers looking for Ethiopian goods. 
 
 - 🌱 I’m currently learning **web3**.
 
