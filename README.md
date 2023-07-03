@@ -2,9 +2,7 @@
 # Hi there 👋, I'm Atnaf Abebe!
 
 ## About Me
-I'm a **MERN stack developer** who loves to build web applications. I'm passionate about writing clean, maintainable, and scalable code.
-
-- 🔭 I’m currently working on **Habesha-Mart** - Habesha Mart is a full-stack e-commerce website that aims to offer a unique shopping experience for customers looking for Ethiopian goods. 
+I am a 4th-year software engineering student, and I develop medium-level MERN stack web applications and cool WordPress apps! 🚀
 
 - 📫 How to reach me: oliabebe82@gmail.com | https://www.linkedin.com/in/atnaf-abebe-10474b246/
 
