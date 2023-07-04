@@ -1,5 +1,5 @@
 <!-- Header -->
-# Hi there 👋, I'm Atnaf Abebe!
+# Hi there, I'm Atnaf Abebe!
 
 ## About Me
 I am a 4th-year software engineering student, and I develop medium-level MERN stack web applications and cool WordPress apps! 🚀
