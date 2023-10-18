@@ -2,7 +2,7 @@
 # Hi there, I'm Atnaf Abebe!
 
 ## About Me
-I am a 4th-year software engineering student, and I develop medium-level MERN stack web applications and cool WordPress apps! 🚀
+I develop medium-level MERN stack web applications and cool WordPress apps! 🚀
 
 - 📫 How to reach me: oliabebe82@gmail.com | https://www.linkedin.com/in/atnaf-abebe-10474b246/
 
