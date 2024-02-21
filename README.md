@@ -2,8 +2,9 @@
 # Hi there, I'm Atnaf Abebe!
 
 ## About Me
-I develop medium-level MERN stack web applications and cool WordPress apps! 🚀
+Hello, I’m a backend developer who enjoys building web applications that are fast, scalable, and reliable. I use Node.js, Docker, Kubernetes, and microservices architecture to create robust backend solutions. I also have skills in creating beautiful frontends with Next.js, React, and Tailwind CSS.
 
+I love learning new technologies and working with other developers. Let’s get in touch and explore the wonderful possibilities of the web!
 - 📫 How to reach me: oliabebe82@gmail.com | https://www.linkedin.com/in/atnaf-abebe-10474b246/
 
 ## My Skills
