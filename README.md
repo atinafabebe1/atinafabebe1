@@ -4,7 +4,7 @@
 ## About Me
 I’m a Full-Stack(MERN) developer who enjoys building web applications that are fast, scalable, and reliable. I use Node.js, Docker, Kubernetes, and microservices architecture to create robust backend solutions. I also have skills in creating beautiful frontends with Next.js, React, and Tailwind CSS.
 
-I love learning new technologies and working with other developers. Let’s get in touch and explore the wonderful possibilities of the web!
+I love learning new technologies and working with other developers.
 - 📫 How to reach me: oliabebe82@gmail.com | https://www.linkedin.com/in/atnaf-abebe-10474b246/
 
 ## My Skills
